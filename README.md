@@ -1,5 +1,5 @@
 # ZK DEX: Zero-Knowledge Orderbook DEX with Verifiable Matching
-(MADE BY AI, PROMPT WAS TO EXPLAIN THE TECHINICALITIES AND IMPLEMENTATION STEPS OF THE PROTOCOL) 
+(READ ME FILE MADE BY AI) 
 > **🔒 Privacy-First Trading Protocol with Zero-Knowledge Cryptography**
 
 
