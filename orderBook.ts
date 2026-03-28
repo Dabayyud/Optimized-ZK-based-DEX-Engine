@@ -66,5 +66,4 @@ export class OrderBook {
     }
 }
 
-// lets challenge ourselves and create a heap structure so that we can proccess (match/add) trades alot faster.
-// we were using 0(nlogn) now we are using a hybrid of 0(log(n)) and O(n) 
+// we were using o(nlogn) now we are using o(log(n)) + o(n) 
